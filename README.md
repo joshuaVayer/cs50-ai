@@ -9,7 +9,8 @@ Le repo contient les projets suivants :
 - **Semaine 0 - Search**: Cette semaine nous avons appris à résoudre des problèmes de recherche de texte en utilisant différentes stratégies de recherche, telles que `Depth-first search`, `Breadth-First Search` et `Greedy Best-First Search`.
     - Exercice 0: [Degrees](https://cs50.harvard.edu/ai/2020/projects/0/degrees/)
     - Exercice 1: [Tic-Tac-Toe](https://cs50.harvard.edu/ai/2020/projects/0/tictactoe/)
-- **Semaine 1 - Knowledge**:
+- **Semaine 1 - Knowledge**: Cette semaine nous avons appris à représenter des connaissances en utilisant la logique propositionnelle et à utiliser l'inférence pour déduire de nouvelles connaissances.
+    - Exercice 0: [Knights](https://cs50.harvard.edu/ai/2020/projects/1/knights/)
 - **Semaine 2 - Uncertainty**:
 - **Semaine 3 - Optimization**:
 - **Semaine 4 - Learning**:
